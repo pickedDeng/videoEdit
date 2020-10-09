@@ -12,8 +12,11 @@ npm run serve
 ## demo地址
 
 ```
-http://49.234.184.136:8080/   服务器有点垃圾，打开的有点慢请稍等。。。
+http://docs.fst1994.com/wm/demo/index.html   
 ```
+
+## 界面截图
+![图片例](https://github.com/pickedDeng/videoCut/tree/master/src/assets/2.jpg)
 
 ### videoCut 2.0 中支持以下功能
 
