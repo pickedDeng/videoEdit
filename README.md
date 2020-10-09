@@ -16,7 +16,7 @@ http://docs.fst1994.com/wm/demo/index.html
 ```
 
 ## 界面截图
-![图片例](https://github.com/pickedDeng/videoCut/tree/master/src/assets/2.jpg)
+![图片例](http://guzhen.fst1994.com/res/img/202010/09/2d7f647d880f4ed3.jpg)
 
 ### videoCut 2.0 中支持以下功能
 
