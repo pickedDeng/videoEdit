@@ -60,6 +60,10 @@ npm run serve
 + 图片生成、预览
 
 
+### 编码思路
+心路历程：https://www.showdoc.com.cn/1381593190149892?page_id=6817692108459109
+
+
 
 
 
