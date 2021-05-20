@@ -1,6 +1,6 @@
 ## 前言
 没啥要说的,使用vue重新改写了视频云剪辑，云拆条。时间精力有限，闲下来的时候会持续更新。虽然在原先1.0的基础上有很多的用户咨询该实现方法。但是本次我还是不准备建立群聊（怕被催更），写这个纯属兴趣没有任何利益可言。如有有帮助到你，右上角 **点个 star** 足以；原1.0版已复制到根目录video-edit-v1.0;缓慢更新中...
-## v1.5界面截图(演示地址：http://docs.fst1994.com/v1.5/html)
+## v1.5界面截图(演示地址：http://docs.fst1994.com/wm/v1.5/index.html)
 ![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/b040bebc6070a7c0ac6cca91176876f4)
 
 ## v1.0 界面截图（演示地址：http://docs.fst1994.com/wm/demo/index.html）
