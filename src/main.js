@@ -2,16 +2,31 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+// element ui
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
-import '@/assets/css/iconfont.css'
-Vue.prototype.Event = new Vue
 Vue.use(ElementUI);
 
-Vue.config.productionTip = false
 
+import("./assets/iconfont/iconfont.css")
+
+// VueDraggableResizable
+import VueDraggableResizable from 'vue-draggable-resizable'
+import 'vue-draggable-resizable/dist/VueDraggableResizable.css'
+Vue.component('vue-draggable-resizable', VueDraggableResizable)
+
+// 播放器 
+import VueVideoPlayer from 'vue-video-player'
+import 'video.js/dist/video-js.css'
+Vue.use(VueVideoPlayer)
+
+// 键盘事件VueHotkey
+import VueHotkey from 'v-hotkey'
+Vue.use(VueHotkey)
+
+Vue.config.productionTip = false
 new Vue({
   router,
   store,
-  render: h => h(App)
+  render: function (h) { return h(App) }
 }).$mount('#app')

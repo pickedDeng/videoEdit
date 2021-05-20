@@ -1,25 +1,32 @@
-# video
+## 前言
+没啥要说的,使用vue重新改写了视频云剪辑，云拆条。时间精力有限，闲下来的时候会持续更新。虽然在原先1.0的基础上有很多的用户咨询该实现方法。但是本次我还是不准备建立群聊（怕被催更），写这个纯属兴趣没有任何利益可言。如有有帮助到你，右上角 **点个 star** 足以；原1.0版已复制到根目录video-edit-v1.0;缓慢更新中...
+## v1.5演示视频
 
-## 安装依赖
+<video src="http://your-site.com/your.mp4" style="width: 100%; height: 100%;" controls="controls"></video>
+
+## v1.0 演示视频（演示地址：http://docs.fst1994.com/wm/demo/index.html）
+
+<video src="http://your-site.com/your.mp4" style="width: 100%; height: 100%;" controls="controls"></video>
+
+## 作者微信
+<center>![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/ae61ed9939fdc26aad8f98ba142d7c8f)</center>
+
+## 安装
 ```
 npm install
 ```
 
-### 运行
+## 运行
+
 ```
 npm run serve
 ```
-## demo地址
 
-```
-http://docs.fst1994.com/wm/demo/index.html   
-```
 
-## 界面截图
-![图片例](http://guzhen.fst1994.com/res/img/202010/09/2d7f647d880f4ed3.jpg)
+## 功能清单
 
-### videoCut 2.0 中支持以下功能
 
+### v1.0 
 + 视频分段剪辑，打入打出点；
 
 + canvas刻度尺 调整不同时间刻度,并适配剪辑的短视频宽度
@@ -34,15 +41,26 @@ http://docs.fst1994.com/wm/demo/index.html
 
 + 反选当前剪切的视频片段
 
-+  自动拆分视频，平均拆分视频
++ 自动拆分视频，平均拆分视频
 
 + 支持视频 上一帧，下一帧
 
 + 内置部分快捷供快捷使用 具体参照例子
 
+### v1.5 
++ 支持多轨道（视频轨道、音频轨道、字幕轨道、图片轨道）
++ 支持多类型拖拽形成轨道
++ 支持轨道拖拽、移动、改变大小
++ 支持改变轨道刻度基准
++ 支持改变轨道自适应现轨道长度
 
-### 变量存放地址 
+### v2.0（计划更新）
++ 可视化预览
++ bug优化
++ 字幕生成、预览
++ 图片生成、预览
 
-+ 拆条列表  VideoControl.vue中  cutCoverList数组中  单个拆条存储了开始时间，结束时间，时长间隔，left距离，拆条宽度等
 
-### author:QQ-780602604   Wechat：deng9466   email: pickeddeng@163.com
+
+
+

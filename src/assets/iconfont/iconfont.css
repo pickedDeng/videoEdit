@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1550282 */
+  src: url('iconfont.woff2?t=1620900298742') format('woff2'),
+       url('iconfont.woff?t=1620900298742') format('woff'),
+       url('iconfont.ttf?t=1620900298742') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-b_fill:before {
+  content: "\e681";
+}
+
+.icon-zanting1:before {
+  content: "\e638";
+}
+
+.icon-bofangqi-danmudibukai:before {
+  content: "\e69d";
+}
+
+.icon-music:before {
+  content: "\e617";
+}
+
+.icon-wenben:before {
+  content: "\e8c2";
+}
+
+.icon-icon_play:before {
+  content: "\e60f";
+}
+
+.icon-zhongxin:before {
+  content: "\e60b";
+}
+
+.icon-shenqingfuwu:before {
+  content: "\e672";
+}
+
+.icon-mianxingjiandaotubiao:before {
+  content: "\e6a7";
+}
+
+.icon-shanchu1:before {
+  content: "\e67d";
+}
+
+.icon-tupian:before {
+  content: "\e607";
+}
+
+.icon-gouwuche:before {
+  content: "\e60a";
+}
+
+.icon-sousu:before {
+  content: "\e627";
+}
+
+.icon-chakandianzan:before {
+  content: "\e655";
+}
+
+.icon-lianxiwomen:before {
+  content: "\e609";
+}
+
+.icon-dianhua:before {
+  content: "\e60c";
+}
+
+.icon-yinyue:before {
+  content: "\e680";
+}
+
+.icon-shipin:before {
+  content: "\e678";
+}
+
+.icon-weixin:before {
+  content: "\e620";
+}
+
+.icon-wenzi:before {
+  content: "\e732";
+}
+
+.icon-xinjian:before {
+  content: "\e649";
+}
+
+.icon-iconfontrenminbifuben:before {
+  content: "\e665";
+}
+
+.icon-kuaijiejian:before {
+  content: "\e614";
+}
+
+.icon-zanting:before {
+  content: "\e85e";
+}
+
+.icon-zuoyoufenli:before {
+  content: "\e6bc";
+}
+
+.icon-zidong:before {
+  content: "\e612";
+}
+
+.icon-kaishi:before {
+  content: "\e671";
+}
+
+.icon-bofang:before {
+  content: "\e603";
+}
+
+.icon-refresh:before {
+  content: "\e600";
+}
+
+.icon-kaishi1:before {
+  content: "\e6a6";
+}
+
+.icon-shangyige:before {
+  content: "\e697";
+}
+
+.icon-xiayige:before {
+  content: "\e698";
+}
+
+.icon-zixun:before {
+  content: "\e62c";
+}
+
+.icon-xiangshang:before {
+  content: "\e735";
+}
+
+.icon-xiangxia:before {
+  content: "\e751";
+}
+
