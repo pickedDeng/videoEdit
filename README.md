@@ -19,6 +19,16 @@ npm install
 
 ```
 npm run serve
+
+
+
+运行v1.0版本
+
+cd video-edit-v1.0
+
+npm install 
+
+npm run serve
 ```
 
 
